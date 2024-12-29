@@ -11,5 +11,4 @@ The BMS is based on the BQ7790521 from Texas Instruments.
 You can order the printed circuit board from the company Aisler by clicking on the following link.
 
 https://aisler.net/p/LSBKAPWB
-![TOP](https://github.com/m6r3k/LiFePo4-BMS/raw/main/3D/top.png)
-![BOTTOM](https://github.com/m6r3k/LiFePo4-BMS/raw/main/3D/BOTT.png)
+![TOP](https://raw.githubusercontent.com/m6r3k/BMS/refs/heads/main/3D/top.png)
