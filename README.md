@@ -10,5 +10,5 @@ The BMS is based on the BQ7790521 from Texas Instruments.
 
 You can order the printed circuit board from the company Aisler by clicking on the following link.
 
-https://aisler.net/p/LSBKAPWB
+https://aisler.net/p/BJMBHQPR
 ![TOP](https://raw.githubusercontent.com/m6r3k/BMS/refs/heads/main/3D/top.png)
